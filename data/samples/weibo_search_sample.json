@@ -1,0 +1,97 @@
+{
+  "ok": 1,
+  "data": {
+    "cards": [
+      {
+        "card_type": 9,
+        "mblog": {
+          "id": "5100000000000001",
+          "mid": "5100000000000001",
+          "created_at": "2小时前",
+          "text": "人工智能真的太强大了！最近的AI绘画技术简直不可思议，<br/>大家有没有试过用AI生成艺术作品？<br/><a href='https://m.weibo.cn/'>网页链接</a>",
+          "reposts_count": 1234,
+          "comments_count": 456,
+          "attitudes_count": 7890,
+          "user": {
+            "screen_name": "科技达人小李"
+          }
+        }
+      },
+      {
+        "card_type": 9,
+        "mblog": {
+          "id": "5100000000000002",
+          "mid": "5100000000000002",
+          "created_at": "4小时前",
+          "text": "今天公司部署了新的AI客服系统，<br/>准确率提高了30%，<br/>但是总觉得少了点人情味。科技进步是好是坏呢？<br/><span class='url-icon'>[思考]</span>",
+          "reposts_count": 89,
+          "comments_count": 345,
+          "attitudes_count": 1200,
+          "user": {
+            "screen_name": "程序员老张"
+          }
+        }
+      },
+      {
+        "card_type": 9,
+        "mblog": {
+          "id": "5100000000000003",
+          "mid": "5100000000000003",
+          "created_at": "06-28",
+          "text": "无语了，所谓的人工智能写出来的文章完全不能用，<br/>内容空洞，逻辑混乱，简直就是浪费时间。<br/>搞不懂为什么这么多人追捧AI写作。",
+          "reposts_count": 234,
+          "comments_count": 678,
+          "attitudes_count": 3456,
+          "user": {
+            "screen_name": "文字工作者"
+          }
+        }
+      },
+      {
+        "card_type": 9,
+        "mblog": {
+          "id": "5100000000000004",
+          "mid": "5100000000000004",
+          "created_at": "06-28",
+          "text": "分享一篇好文：2024年人工智能应用场景白皮书发布<br/>涵盖了医疗、教育、金融、制造等多个领域<br/>值得一读 <a href='https://m.weibo.cn/'>查看详情</a>",
+          "reposts_count": 567,
+          "comments_count": 123,
+          "attitudes_count": 2345,
+          "user": {
+            "screen_name": "行业观察笔记"
+          }
+        }
+      },
+      {
+        "card_type": 9,
+        "mblog": {
+          "id": "5100000000000005",
+          "mid": "5100000000000005",
+          "created_at": "06-27",
+          "text": "最近在研究大模型的应用落地，<br/>发现很多企业其实还没有想清楚AI能解决什么实际问题。<br/>建议大家在引入AI之前先做好业务流程梳理。<br/>盲目跟风不可取。",
+          "reposts_count": 890,
+          "comments_count": 234,
+          "attitudes_count": 4500,
+          "user": {
+            "screen_name": "企业数字化转型"
+          }
+        }
+      },
+      {
+        "card_type": 9,
+        "mblog": {
+          "id": "5100000000000006",
+          "mid": "5100000000000006",
+          "created_at": "刚刚",
+          "text": "开心！公司AI项目终于上线了 🎉<br/>团队辛苦了大半年，<br/>看到用户反馈这么好，一切都值得了！<br/>继续加油💪",
+          "reposts_count": 45,
+          "comments_count": 89,
+          "attitudes_count": 678,
+          "user": {
+            "screen_name": "创业在路上"
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+[project]
+name = "opimon"
+version = "0.1.0"
+description = "Public opinion monitoring crawler for Zhihu and Weibo — crawl trends, analyze sentiment, generate word clouds"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "requests>=2.31.0",
+    "beautifulsoup4>=4.12.0",
+    "lxml>=4.9.0",
+    "jieba>=0.42.1",
+    "snownlp>=0.12.3",
+    "wordcloud>=1.9.0",
+    "matplotlib>=3.7.0",
+    "click>=8.1.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0", "black>=24.0", "ruff>=0.1.0", "pytest-mock>=3.10"]
+
+[dependency-groups]
+dev = ["pytest>=7.0", "black>=24.0", "ruff>=0.1.0", "pytest-mock>=3.10"]
+
+[project.scripts]
+opimon = "opimon.cli:cli"
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]

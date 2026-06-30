@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "type": "search_result",
+      "object": {
+        "type": "answer",
+        "id": 1234567890,
+        "url": "https://www.zhihu.com/question/100001/answer/1234567890",
+        "excerpt": "人工智能在医疗领域的应用越来越广泛，特别是在影像诊断方面，深度学习模型已经能够达到甚至超过人类医生的准确率。",
+        "created_time": 1719700000,
+        "voteup_count": 1520,
+        "comment_count": 88,
+        "question": {
+          "id": 100001,
+          "title": "人工智能在医疗领域有哪些突破性应用？",
+          "url": "https://www.zhihu.com/question/100001"
+        },
+        "author": {
+          "name": "科技观察者"
+        }
+      }
+    },
+    {
+      "type": "search_result",
+      "object": {
+        "type": "answer",
+        "id": 1234567891,
+        "url": "https://www.zhihu.com/question/100002/answer/1234567891",
+        "excerpt": "大语言模型的发展速度令人惊叹，从GPT-3到GPT-4的跨越只用了不到两年时间，但同时也引发了关于AI安全和伦理的广泛讨论。",
+        "created_time": 1719600000,
+        "voteup_count": 2340,
+        "comment_count": 156,
+        "question": {
+          "id": 100002,
+          "title": "如何看待大语言模型的快速发展？",
+          "url": "https://www.zhihu.com/question/100002"
+        },
+        "author": {
+          "name": "AI研究员小明"
+        }
+      }
+    },
+    {
+      "type": "search_result",
+      "object": {
+        "type": "answer",
+        "id": 1234567892,
+        "url": "https://www.zhihu.com/question/100003/answer/1234567892",
+        "excerpt": "我个人非常担心AI会取代大量工作岗位，特别是初级程序员、翻译和客服人员。长远来看，我们需要思考如何与AI共存。",
+        "created_time": 1719500000,
+        "voteup_count": 890,
+        "comment_count": 234,
+        "question": {
+          "id": 100003,
+          "title": "AI的发展会让你感到焦虑吗？",
+          "url": "https://www.zhihu.com/question/100003"
+        },
+        "author": {
+          "name": "思考未来"
+        }
+      }
+    },
+    {
+      "type": "search_result",
+      "object": {
+        "type": "answer",
+        "id": 1234567893,
+        "url": "https://www.zhihu.com/question/100004/answer/1234567893",
+        "excerpt": "今天的人工智能公司估值已经严重泡沫化，很多创业公司只是简单封装了OpenAI的API就敢称自己是AI公司，这种风气对整个行业不利。",
+        "created_time": 1719400000,
+        "voteup_count": 3200,
+        "comment_count": 567,
+        "question": {
+          "id": 100004,
+          "title": "当前AI行业是否存在泡沫？",
+          "url": "https://www.zhihu.com/question/100004"
+        },
+        "author": {
+          "name": "理性投资者"
+        }
+      }
+    },
+    {
+      "type": "search_result",
+      "object": {
+        "type": "answer",
+        "id": 1234567894,
+        "url": "https://www.zhihu.com/question/100005/answer/1234567894",
+        "excerpt": "开源大模型正在缩小与闭源模型的差距，Meta的Llama系列和阿里的Qwen系列都展现出了极强的竞争力，这对整个AI生态来说是好事。",
+        "created_time": 1719300000,
+        "voteup_count": 1800,
+        "comment_count": 120,
+        "question": {
+          "id": 100005,
+          "title": "开源大模型能否追上闭源模型？",
+          "url": "https://www.zhihu.com/question/100005"
+        },
+        "author": {
+          "name": "程序人生"
+        }
+      }
+    },
+    {
+      "type": "search_result",
+      "object": {
+        "type": "article",
+        "id": 987654321,
+        "url": "https://zhuanlan.zhihu.com/p/987654321",
+        "title": "2024年人工智能行业年度回顾：变革与挑战并存",
+        "excerpt": "2024年是AI行业的关键一年。多模态模型、AI Agent、以及具身智能成为了年度热词。各大科技公司纷纷加大投入，AI应用开始真正落地。然而数据隐私、算法偏见等问题也日益凸显。",
+        "created": 1719000000,
+        "voteup_count": 4500,
+        "comment_count": 320,
+        "author": {
+          "name": "前沿科技评论"
+        }
+      }
+    }
+  ],
+  "paging": {
+    "is_end": false,
+    "next": "/api/v4/search_v3?q=人工智能&offset=20"
+  }
+}
